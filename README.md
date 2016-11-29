@@ -9,6 +9,12 @@ Adapted to IntellijIDEA by [Grafikart](https://grafikart.fr) (use with [Color Pa
 
 The font used in the IntellijIDEA  [Source Code Pro Semibold](https://github.com/adobe-fonts/source-code-pro).
 
+Also available for : 
+
+- [Atom](https://github.com/tinacious/atom-tinacious-design-syntax)
+- [Visual Studio Code](https://github.com/tinacious/vscode-tinacious-design-syntax)
+- [Sublime Text](https://github.com/tinacious/sublime-tinacious-design-syntax)
+
 ### SCSS
 ![](images/scss.png)
 
